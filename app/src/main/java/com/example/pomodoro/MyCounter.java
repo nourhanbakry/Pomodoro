@@ -52,5 +52,4 @@ class MyCounter extends CountDownTimer {
 
     }
 
-
 }

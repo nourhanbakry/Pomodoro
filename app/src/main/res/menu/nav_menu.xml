@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Pomodoro" android:id="@+id/pomodoro_item" android:icon="@drawable/pomodoro_timer"/>
+    <item android:title="StopWatch" android:id="@+id/stopwatch_item" android:icon="@drawable/stopwatch"/>
+
+</menu>
